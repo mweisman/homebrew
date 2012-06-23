@@ -6,8 +6,8 @@ end
 
 class Postgis < Formula
   homepage 'http://postgis.refractions.net'
-  url 'http://postgis.org/download/postgis-2.0.0.tar.gz'
-  md5 '639d2b5d6a7dc94ea2e60d6942a615bc'
+  url 'http://postgis.org/download/postgis-2.0.1.tar.gz'
+  md5 '7af9ce5f7dfb22d81fea7f041e674497'
 
   head 'http://svn.osgeo.org/postgis/trunk/'
 
